@@ -1,5 +1,3 @@
-# Electronics-Store-Annual-Report-Excel-Project
-
 # 📊 Electronics Store Annual Report 2025
 
 This project presents an **interactive Excel dashboard** that visualizes the **annual sales performance of an electronics store** for the year **2025**.  
@@ -52,7 +50,7 @@ It enables decision-makers to quickly assess key metrics such as total orders, s
 
 - ## 📸 Dashboard Preview
 
-![Dashboard Preview](Excel%20Dashboard%20Image.png)
+![Dashboard Preview](https://github.com/sahilchavan45/Electronics-Store-Annual-Report-Excel-Project/blob/main/Excel%20Dashboard%20Image.png)
 
 ---
 
